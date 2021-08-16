@@ -47,4 +47,4 @@ not wish to come off as anything but welcoming, however, we've
 made the decision to keep this project closed to contributions for 
 the long term viability of the project.
 
-Test Build:  (https://github.com/MangoPopPop/AV-drawio/blob/dev/src/main/webapp/index.html)
+[Test Build](https://github.com/MangoPopPop/AV-drawio/blob/dev/src/main/webapp/index.html)
